@@ -4,7 +4,7 @@
 
 📫 Me mande uma mensagem **dsomarcelo@gmail.com**
 <h3>
-    <a href="https://dsmarcelo.vercel.app/" target="blank">Visite o meu site<a>
+    <a href="https://dsmarcelo.vercel.app/" target="_blank">Visite o meu site<a>
 </h3>
 <h3 align="left">Conecte-se comigo em:</h3>
 <p align="left">
