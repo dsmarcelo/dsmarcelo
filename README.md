@@ -1,9 +1,11 @@
 <h1 align="center">Ola 👋, eu sou o Marcelo Araújo</h1>
 <h3 align="center">Designer Grafico(UNICSUL-2021) e FullStack Developer</h3>
-🌱 Atualmente estou aprendendo **Flutter, AWS**
+📖 Atualmente estou aprendendo AngularJS, Flutter, AWS e C++
 
 📫 Me mande uma mensagem **dsomarcelo@gmail.com**
-
+<h3>
+    <a href="https://dsmarcelo.vercel.app/" target="blank">Visite o meu site<a>
+</h3>
 <h3 align="left">Conecte-se comigo em:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dsmarcelo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dsmarcelo" height="30" width="40" /></a>
