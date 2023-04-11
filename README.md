@@ -1,6 +1,6 @@
 <h1 align="center">Ola 👋, eu sou o Marcelo</h1>
 <h3 align="center">Designer Grafico(UNICSUL-2021) e FullStack Developer</h3>
-📖 Atualmente estou aprendendo VueJS, React Native, AWS e Python
+📖 Atualmente estou aprendendo UnrealEngine, React Native, AWS e Python
 
 📫 Me mande uma mensagem **dsomarcelo@gmail.com**
 <h3>
